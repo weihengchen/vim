@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/along/tool/hadoop/logs/userlogs/application_1418527985533_0003'
+let g:netrw_dirhist_2='/home/along/tool/hadoop/logs/userlogs/application_1418527985533_0003/container_1418527985533_0003_01_000001'
+let g:netrw_dirhist_3='/Users/along/project/temp/hi-project/.git/refs'
+let g:netrw_dirhist_4='/Users/along/project/temp/hi-project/.git/info'
+let g:netrw_dirhist_5='/Users/along/Library/Keychains'
+let g:netrw_dirhist_6='/Users/along/project/Spark/src'
+let g:netrw_dirhist_7='/Users/along/tool/hadoop/logs/userlogs/application_1421777210833_0005/container_1421777210833_0005_01_000001'
+let g:netrw_dirhist_8='/Users/along/.matlab'
